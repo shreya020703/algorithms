@@ -1,5 +1,3 @@
-# algorithms
-a december of algorithms.
 #the secret language
 s=input("enter the string")
 n=s #stored the same string in different variables
